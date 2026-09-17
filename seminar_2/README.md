@@ -1,4 +1,4 @@
-# CS 5045: Seminar 2 — Fundamentals Challenge
+# CS 5045: Seminar 2: Fundamentals Challenge
 
 **Date:** September 19, 2026  
 **Instructor:** Kurt Stein, KStein@VT.edu
