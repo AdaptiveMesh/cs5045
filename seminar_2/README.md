@@ -11,6 +11,7 @@
 |------|-------------|
 | `challenge.ipynb` | The assignment notebook. This is what you work in and submit. |
 | `challenge_data.csv` | The dataset. US state health metrics, loaded automatically by the notebook. |
+| `practice.ipynb` | Optional extra practice, ungraded, not submitted. Same dataset, two columns the assignment didn't use. Hints included. Grab it anytime. |
 
 ---
 
@@ -46,3 +47,4 @@ Then paste your GitHub repo URL into the Canvas submission box.
 - Both files must stay in the same folder for the data loading cell to work
 - Do not import pandas. The challenge uses only the `csv` module
 - Open book: your Module 1–4 notes, code examples, and homework are all fair game
+- `practice.ipynb` is optional and ungraded. Nothing in it gets submitted. Use it for extra reps before Module 5 opens Sunday
