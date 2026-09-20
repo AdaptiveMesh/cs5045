@@ -1,0 +1,17 @@
+runner_id,name,finish_time_min,age,gender,category
+R001,Amara Osei,42.3,29,F,Open
+R002,Brian Tran,38.7,34,M,Open
+R003,Celia Moreno,51.2,47,F,Masters
+R004,David Park,44.8,31,M,Open
+R005,Fatima Al-Hassan,56.4,52,F,Masters
+R006,George Kim,40.1,26,M,Open
+R007,Hannah Schmidt,48.9,44,F,Masters
+R008,Idris Okafor,35.6,22,M,Open
+R009,Julia Reyes,61.0,58,F,Masters
+R010,Kevin Nguyen,43.5,37,M,Open
+R011,Laila Patel,50.7,45,F,Masters
+R012,Marcus Webb,37.2,28,M,Open
+R013,Nina Johansson,46.3,39,F,Open
+R014,Oscar Ferreira,55.8,51,M,Masters
+R015,Priya Sharma,49.4,33,F,Open
+R016,Raj Kapoor,41.6,30,M,Open
