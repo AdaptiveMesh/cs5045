@@ -1,0 +1,17 @@
+patient_id,first_name,last_name,age,sex,diagnosis,systolic_bp,diastolic_bp,cholesterol,bmi,smoker,num_visits
+P001,Alice,Morrow,54,F,Hypertension,148,92,210,27.4,no,6
+P002,Ben,Okafor,41,M,Diabetes,132,85,245,31.2,yes,12
+P003,Carmen,Ruiz,67,F,Hypertension,161,98,198,24.8,no,9
+P004,Derek,Shaw,29,M,Healthy,118,76,175,22.1,no,2
+P005,Evelyn,Park,73,F,Diabetes,155,90,262,29.6,yes,15
+P006,Franklin,Nwosu,48,M,Hypertension,143,88,231,30.5,yes,8
+P007,Grace,Leblanc,35,F,Healthy,120,78,182,21.7,no,3
+P008,Henry,Vasquez,62,M,Diabetes,139,84,255,28.9,no,11
+P009,Iris,Tanaka,57,F,Hypertension,152,94,222,26.3,yes,7
+P010,James,Osei,44,M,Healthy,125,80,190,23.5,no,4
+P011,Karen,Brandt,70,F,Diabetes,158,96,270,32.1,yes,14
+P012,Luis,Ferreira,38,M,Healthy,122,79,178,20.9,no,3
+P013,Maya,Patel,51,F,Hypertension,145,89,215,27.8,no,6
+P014,Nathan,Adeyemi,66,M,Diabetes,137,83,248,29.3,yes,10
+P015,Olivia,Chen,33,F,Healthy,116,75,170,21.2,no,2
+P016,Paul,Winters,59,M,Hypertension,150,91,225,28.0,no,8
