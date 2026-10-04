@@ -1,0 +1,17 @@
+student_id,name,attendance_pct,assignment_avg,midterm_score,final_score,major,study_hours_per_week,passed_midterm
+S001,Aisha Nkemdirim,92,88,81,85,Biology,10,yes
+S002,Carlos Vega,74,72,63,69,Business,6,no
+S003,Dana Park,98,95,92,94,Sociology,14,yes
+S004,Evan Morse,55,60,48,52,Engineering,4,no
+S005,Fatima Al-Rashid,88,84,79,83,Biology,9,yes
+S006,George Chen,100,91,90,92,Public Policy,12,yes
+S007,Hannah Brooks,67,65,58,61,Business,5,no
+S008,Ibrahim Osei,83,80,74,78,Engineering,8,yes
+S009,Jenna Ramirez,95,93,89,91,Sociology,13,yes
+S010,Kevin Liu,70,68,60,64,Business,6,no
+S011,Layla Haddad,90,87,82,86,Public Policy,11,yes
+S012,Marcus Webb,78,75,70,73,Biology,7,yes
+S013,Nadia Petrov,62,58,51,55,Engineering,4,no
+S014,Omar Singh,85,82,77,80,Sociology,9,yes
+S015,Priya Shenoy,97,96,94,96,Public Policy,15,yes
+S016,Quinn Taylor,60,62,53,57,Business,5,no
