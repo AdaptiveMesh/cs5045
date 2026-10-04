@@ -1,0 +1,17 @@
+city,country,avg_temp_c,avg_temp_f,avg_rainfall_mm,is_tropical
+Nairobi,Kenya,17.6,63.7,686,False
+Bangkok,Thailand,28.3,82.9,1400,True
+Oslo,Norway,6.8,44.2,763,False
+São Paulo,Brazil,19.7,67.5,1454,False
+Phoenix,United States,23.5,74.3,208,False
+Mumbai,India,27.2,81.0,2167,True
+Helsinki,Finland,5.2,41.4,612,False
+Singapore,Singapore,27.0,80.6,2340,True
+Buenos Aires,Argentina,17.9,64.2,1027,False
+Lagos,Nigeria,26.8,80.2,1657,True
+Seoul,South Korea,12.5,54.5,1451,False
+Vancouver,Canada,11.1,52.0,1154,False
+Cairo,Egypt,21.9,71.4,25,False
+Bogotá,Colombia,14.0,57.2,1010,False
+Dhaka,Bangladesh,26.4,79.5,1988,True
+Auckland,New Zealand,15.5,59.9,1240,False
