@@ -1,0 +1,19 @@
+response_id,age,gender,income_usd,education,employed,health_rating,exercise_days_per_week,smoker,last_checkup_year,zip_code,satisfaction_score
+101,34,Female,52000,Bachelor's,Yes,Good,3,No,2022,24060,8
+102,28,male,47500,Master's,yes,good,2,no,2023,24061,7
+103,45,FEMALE,31000,High School,No,Fair,0,Yes,2021,24060,5
+104,52,Male,88000,Doctorate,YES,Excellent,5,N,2023,24062,9
+105,39,female,61000,Bachelor's,yes,Good,3,no,2022,24061,8
+106,NA,Male,72000,Master's,Yes,Good,4,No,2023,24060,7
+107,29,Female,44000,Bachelor's,Yes,good,1,YES,2020,24062,6
+101,34,Female,52000,Bachelor's,Yes,Good,3,No,2022,24060,8
+109,61,male,95000,Doctorate,yes,Excellent,4,no,2023,24063,10
+110,33,Female,38500,Bachelor's,No,Fair,2,Y,2021,24061,5
+111,47,Male,NA,Master's,Yes,Good,3,No,2022,24060,7
+112,55,female,67000,High School,yes,Poor,0,Yes,2019,24062,3
+113,22,Male,29000,Bachelor's,No,Good,5,no,2023,24063,6
+114,38,MALE,53000,Master's,YES,good,2,NO,2022,24060,8
+115,44,Female,71000,Doctorate,Yes,Excellent,4,No,2023,24061,9
+107,29,female,44000,Bachelor's,Yes,good,1,YES,2020,24062,6
+117,50,Male,82000,Master's,Yes,Good,3,No,2022,24060,8
+118,36,Female,48000,Bachelor's,yes,Fair,1,yes,2021,24063,5
