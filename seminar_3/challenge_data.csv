@@ -1,0 +1,201 @@
+city,state,region,year,air_quality_index,median_income,walkability_score,transit_score,green_space_pct
+Minneapolis,MN,Midwest,2022,29.6,74615,97,,18.2
+Portland,OR,West,2020,60.8,97870,58,,25.3
+Baltimore,MD,Northeast,2022,73.7,94271,70,76.3,3.7
+detroit,MI,Midwest,2019,53.9,,40,36.2,8.8
+Dallas,TX,South,2019,109.0,64733,33,80.7,15.6
+newark,NJ,Northeast,2018,98.5,82627,58,70.4,3.9
+New York,NY,Northeast,2020,105.8,42300,67,28.0,7.3
+Chicago,IL,Midwest,2020,119.6,35475,39,66.3,19.0
+Nashville,TN,South,2022,133.4,98484,46,35.9,10.9
+Hartford,CT,Northeast,2019,106.5,48546,39,41.7,14.3
+Pittsburgh,PA,Northeast,2020,59.3,74000,45,83.5,27.2
+Birmingham,AL,South,2018,32.0,84072,94,,32.0
+detroit,MI,Midwest,2022,56.2,85202,39,,8.0
+Los Angeles,CA,West,2020,66.7,105119,90,17.5,10.1
+San Francisco,CA,West,2020,47.7,50351,80,39.0,15.7
+Indianapolis,IN,Midwest,2022,43.7,83413,N/A,,10.9
+Boston,MA,Northeast,2022,45.1,51952,87,8.8,7.6
+Miami,FL,South,2022,113.3,49091,50,57.0,9.8
+Cleveland,OH,Midwest,2018,44.2,75633,92,61.2,9.5
+Philadelphia,PA,Northeast,2022,58.9,39891,56,67.9,23.0
+Providence,RI,Northeast,2022,126.2,96488,72,33.7,10.5
+Minneapolis,MN,Midwest,2018,26.6,67560,95,75.0,18.9
+Los Angeles,CA,West,2021,70.2,102457,88,16.7,10.3
+Milwaukee,WI,Midwest,2018,,47385,42,74.9,28.1
+detroit,MI,Midwest,2021,56.6,80195,48,30.9,9.5
+Las Vegas,NV,West,2019,39.3,,68,49.0,27.7
+San Francisco,CA,West,2021,58.5,47642,84,39.3,16.2
+Dallas,TX,South,2022,118.0,68807,30,,16.4
+Denver,CO,West,2020,34.9,47699,31,85.7,6.6
+New York,NY,Northeast,2021,105.8,38146,60,31.5,7.9
+Pittsburgh,PA,Northeast,2018,56.8,75814,36,84.9,27.3
+Buffalo,NY,Northeast,2022,137.2,90294,45,59.3,27.9
+Boston,MA,Northeast,2018,37.2,48265,79,13.7,6.4
+Cleveland,OH,Midwest,2019,45.9,74477,95,60.3,7.6
+Miami,FL,South,2018,106.3,44381,53,55.8,10.4
+Hartford,CT,Northeast,2020,110.4,50872,38,,13.5
+San Diego,CA,West,2022,,46917,37,17.8,23.0
+newark,NJ,Northeast,2021,92.6,,49,71.9,6.6
+Memphis,TN,South,2021,134.1,56851,45,81.1,16.3
+HOUSTON,TX,South,2022,86.6,72284,63,,28.1
+Baltimore,MD,Northeast,2021,71.3,93595,67,76.6,5.1
+Seattle,WA,West,2021,69.9,70447,55,8.9,22.3
+PHOENIX,AZ,West,2020,135.3,98600,N/A,78.8,26.8
+Charlotte,NC,South,2022,,70460,86,83.1,16.4
+Baltimore,MD,Northeast,2019,78.5,92944,63,,5.6
+Albuquerque,NM,West,2019,39.1,46853,40,68.5,18.0
+New Orleans,LA,South,2020,43.3,75592,59,64.5,14.6
+Pittsburgh,PA,Northeast,2019,56.8,73804,41,86.2,27.4
+Cincinnati,OH,Midwest,2018,139.9,,46,23.8,17.7
+Providence,RI,Northeast,2019,114.0,90366,68,30.5,9.8
+Columbus,OH,Midwest,2019,119.9,107407,34,62.3,17.9
+Indianapolis,IN,Midwest,2020,38.6,82906,N/A,32.5,10.1
+Chicago,IL,Midwest,2018,120.9,,49,71.4,17.8
+Kansas City,MO,Midwest,2018,83.1,72537,N/A,88.1,15.9
+Portland,OR,West,2021,60.3,100534,59,,24.1
+Albany,NY,Northeast,2020,68.2,72622,38,72.8,20.4
+San Diego,CA,West,2019,119.5,41153,41,12.5,23.9
+Albuquerque,NM,West,2018,,,34,66.2,18.8
+Miami,FL,South,2019,103.5,44669,50,53.2,11.6
+Milwaukee,WI,Midwest,2019,94.3,47414,36,71.4,26.2
+Albany,NY,Northeast,2021,69.4,73559,37,75.2,19.7
+Las Vegas,NV,West,2021,45.4,58820,N/A,45.7,28.7
+Austin,TX,South,2019,55.1,,100,,26.0
+Miami,FL,South,2021,,45348,50,53.2,9.9
+Minneapolis,MN,Midwest,2019,24.6,71449,92,78.4,16.8
+Chicago,IL,Midwest,2021,125.5,41396,47,,19.7
+Cleveland,OH,Midwest,2021,50.5,78118,94,63.2,8.0
+Salt Lake City,UT,West,2019,115.4,49128,66,25.5,18.9
+New York,NY,Northeast,2019,98.9,39276,64,34.2,8.8
+Portland,OR,West,2018,49.0,100995,57,54.0,25.2
+Cincinnati,OH,Midwest,2020,143.9,104050,51,23.8,18.4
+Providence,RI,Northeast,2021,123.1,95285,71,32.5,8.7
+Seattle,WA,West,2020,66.9,68863,60,7.1,24.8
+atlanta,GA,South,2018,76.7,95837,78,23.5,14.9
+Portland,OR,West,2019,64.0,99201,54,55.8,24.3
+Nashville,TN,South,2020,132.4,98266,49,,12.4
+Los Angeles,CA,West,2018,69.2,104159,88,24.0,11.3
+Providence,RI,Northeast,2020,119.8,92147,77,31.1,8.6
+Las Vegas,NV,West,2018,52.3,61957,N/A,46.8,27.5
+St. Louis,MO,Midwest,2022,60.2,65407,67,42.8,24.1
+Salt Lake City,UT,West,2020,118.5,50708,65,23.4,20.1
+PHOENIX,AZ,West,2018,129.3,96929,64,79.1,27.1
+Philadelphia,PA,Northeast,2019,59.1,38440,58,70.8,24.8
+Boston,MA,Northeast,2020,46.3,,79,12.4,8.1
+Charlotte,NC,South,2020,98.7,,82,86.9,14.4
+Birmingham,AL,South,2022,37.4,89784,89,51.7,30.9
+newark,NJ,Northeast,2019,91.3,83305,54,67.6,4.8
+Buffalo,NY,Northeast,2019,136.0,86860,42,56.2,26.3
+Hartford,CT,Northeast,2018,109.1,50843,42,43.7,15.3
+Memphis,TN,South,2020,128.7,57375,49,74.9,15.5
+HOUSTON,TX,South,2019,,71464,60,64.8,28.0
+Kansas City,MO,Midwest,2019,95.4,73102,N/A,80.6,16.2
+PHOENIX,AZ,West,2021,122.4,97877,N/A,76.8,27.8
+Chicago,IL,Midwest,2022,126.5,40047,43,64.2,18.6
+Milwaukee,WI,Midwest,2021,98.9,46657,36,69.4,25.9
+Kansas City,MO,Midwest,2022,95.2,,100,80.9,16.3
+New York,NY,Northeast,2018,92.5,36042,63,,7.9
+Seattle,WA,West,2022,71.9,69649,58,7.1,23.9
+Birmingham,AL,South,2021,43.4,87193,85,54.7,29.9
+Denver,CO,West,2022,35.5,47296,37,82.9,4.6
+Indianapolis,IN,Midwest,2019,36.6,85931,N/A,31.1,10.8
+HOUSTON,TX,South,2018,,71227,60,67.7,26.7
+Memphis,TN,South,2019,130.1,55189,55,77.7,14.5
+newark,NJ,Northeast,2020,,83066,50,69.7,6.0
+San Diego,CA,West,2021,120.0,46750,39,15.9,24.6
+Philadelphia,PA,Northeast,2020,53.0,37107,55,73.1,24.0
+Salt Lake City,UT,West,2022,113.6,51899,62,29.2,18.8
+Hartford,CT,Northeast,2022,117.8,49192,43,41.6,14.5
+St. Louis,MO,Midwest,2021,50.6,64403,73,42.2,23.5
+Las Vegas,NV,West,2020,51.9,63159,N/A,47.6,27.0
+Denver,CO,West,2019,34.5,47016,39,79.9,6.2
+Austin,TX,South,2018,,52302,95,52.9,24.9
+Boston,MA,Northeast,2019,37.1,50062,84,10.6,6.3
+Seattle,WA,West,2018,,67940,60,10.2,22.3
+Albany,NY,Northeast,2018,63.7,72045,30,75.1,20.1
+Nashville,TN,South,2018,130.9,97242,50,33.5,11.7
+Memphis,TN,South,2022,119.5,60200,N/A,80.0,17.0
+Nashville,TN,South,2021,137.4,98624,47,32.6,10.2
+Philadelphia,PA,Northeast,2021,55.9,37957,51,67.5,24.7
+Baltimore,MD,Northeast,2020,80.9,95199,66,81.2,5.3
+Columbus,OH,Midwest,2022,112.9,107371,34,,18.9
+Las Vegas,NV,West,2022,48.2,64355,70,50.2,27.4
+Denver,CO,West,2018,34.7,,29,84.2,7.4
+Cleveland,OH,Midwest,2022,50.4,74738,93,62.6,7.9
+Albany,NY,Northeast,2022,,74141,37,73.0,18.3
+Dallas,TX,South,2021,120.9,69083,33,77.9,15.1
+San Diego,CA,West,2020,132.3,41346,41,12.8,25.8
+atlanta,GA,South,2019,79.3,94513,78,,13.8
+atlanta,GA,South,2022,76.8,99920,78,23.4,12.5
+St. Louis,MO,Midwest,2020,49.2,65640,73,46.4,21.8
+Dallas,TX,South,2018,107.4,65711,38,78.2,13.8
+Minneapolis,MN,Midwest,2021,31.0,69583,94,75.7,16.9
+Cincinnati,OH,Midwest,2021,140.0,104558,48,24.2,17.5
+Providence,RI,Northeast,2018,120.9,90666,78,37.4,10.1
+St. Louis,MO,Midwest,2018,,62348,67,,21.7
+Philadelphia,PA,Northeast,2018,49.7,36423,51,72.8,22.6
+New Orleans,LA,South,2022,36.5,79756,60,,13.6
+Albuquerque,NM,West,2021,37.1,48130,N/A,,20.0
+Austin,TX,South,2021,54.7,58216,94,55.1,23.8
+Chicago,IL,Midwest,2019,126.2,39301,42,69.1,19.4
+Albuquerque,NM,West,2022,47.8,52771,40,63.2,17.8
+Denver,CO,West,2021,32.2,49099,36,79.4,5.1
+Albany,NY,Northeast,2019,73.2,73171,38,71.7,19.2
+Los Angeles,CA,West,2019,73.9,103679,90,,10.9
+New Orleans,LA,South,2018,33.0,78768,61,66.4,13.7
+Albuquerque,NM,West,2020,44.8,51296,N/A,65.5,19.1
+Austin,TX,South,2022,50.4,,96,52.4,26.1
+PHOENIX,AZ,West,2019,120.2,95303,59,78.9,26.2
+Charlotte,NC,South,2019,100.3,71249,81,85.9,15.2
+Indianapolis,IN,Midwest,2018,35.6,83205,N/A,29.8,11.0
+San Francisco,CA,West,2018,55.9,47322,90,38.9,14.2
+New Orleans,LA,South,2021,41.9,78006,62,69.3,16.0
+Los Angeles,CA,West,2022,,103850,92,19.0,9.2
+Miami,FL,South,2020,107.7,44527,49,57.3,10.2
+Nashville,TN,South,2019,130.1,98662,50,29.5,12.3
+Kansas City,MO,Midwest,2020,87.5,73719,100,87.2,15.3
+New Orleans,LA,South,2019,42.0,75480,59,65.9,14.9
+HOUSTON,TX,South,2021,80.4,73408,57,71.1,29.1
+Pittsburgh,PA,Northeast,2022,64.5,78336,42,84.4,28.1
+Columbus,OH,Midwest,2021,108.5,109100,25,57.6,17.8
+San Diego,CA,West,2018,129.5,44341,46,,25.8
+Dallas,TX,South,2020,,68926,31,81.7,16.2
+Memphis,TN,South,2018,126.6,54005,N/A,80.6,14.7
+Cincinnati,OH,Midwest,2022,146.9,108712,42,23.4,18.3
+Austin,TX,South,2020,57.2,54085,93,53.9,25.0
+Cincinnati,OH,Midwest,2019,134.9,104872,50,,17.3
+Cleveland,OH,Midwest,2020,36.2,73416,90,,9.0
+newark,NJ,Northeast,2022,94.0,88084,50,70.4,4.5
+Salt Lake City,UT,West,2021,118.0,51757,64,26.8,18.5
+Birmingham,AL,South,2019,30.1,86430,N/A,55.6,31.9
+Milwaukee,WI,Midwest,2022,89.2,50666,42,71.9,27.0
+Columbus,OH,Midwest,2020,107.4,105352,29,64.3,17.3
+Portland,OR,West,2022,64.1,101712,61,,23.6
+Charlotte,NC,South,2021,98.3,72000,89,88.6,15.7
+Kansas City,MO,Midwest,2021,95.2,72351,94,85.0,17.1
+atlanta,GA,South,2021,69.7,93912,79,27.4,12.7
+Milwaukee,WI,Midwest,2020,93.6,44856,43,72.3,28.0
+Buffalo,NY,Northeast,2018,134.1,86039,36,,26.4
+Baltimore,MD,Northeast,2018,82.5,92598,70,76.8,3.0
+Columbus,OH,Midwest,2018,109.5,102400,30,63.7,17.3
+Seattle,WA,West,2019,68.5,68918,62,,22.6
+Indianapolis,IN,Midwest,2021,44.3,83861,N/A,30.9,11.2
+Salt Lake City,UT,West,2018,120.5,51008,62,27.2,17.6
+atlanta,GA,South,2020,78.4,94518,78,21.5,14.8
+San Francisco,CA,West,2019,54.8,51240,90,37.5,15.1
+detroit,MI,Midwest,2018,53.0,82204,44,35.3,9.8
+Buffalo,NY,Northeast,2021,143.9,88424,43,59.3,28.4
+detroit,MI,Midwest,2020,56.3,79218,48,32.5,9.4
+Charlotte,NC,South,2018,96.4,69837,84,89.8,15.2
+Minneapolis,MN,Midwest,2020,30.7,68377,89,78.8,19.2
+New York,NY,Northeast,2022,95.6,40000,61,31.6,8.4
+Pittsburgh,PA,Northeast,2021,55.5,75365,36,,27.8
+Hartford,CT,Northeast,2021,122.7,,46,40.8,15.0
+San Francisco,CA,West,2022,54.1,48930,85,41.2,15.3
+St. Louis,MO,Midwest,2019,58.1,63478,64,45.2,23.9
+Boston,MA,Northeast,2021,39.0,48654,80,15.7,6.2
+HOUSTON,TX,South,2020,78.7,71015,54,68.7,27.3
+PHOENIX,AZ,West,2022,,102838,63,74.3,25.5
+Buffalo,NY,Northeast,2020,141.1,87931,41,56.7,28.5
+Birmingham,AL,South,2020,32.1,88037,N/A,55.2,32.4
