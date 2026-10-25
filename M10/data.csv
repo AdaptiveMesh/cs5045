@@ -1,0 +1,273 @@
+region,product_category,quarter,units_sold,revenue
+Northeast,Electronics,Q1,52,8952
+Northeast,Electronics,Q1,104,16475
+Northeast,Electronics,Q1,71,12101
+Northeast,Electronics,Q2,156,25327
+Northeast,Electronics,Q2,72,12067
+Northeast,Electronics,Q2,177,31571
+Northeast,Electronics,Q3,197,36024
+Northeast,Electronics,Q3,171,32130
+Northeast,Electronics,Q3,53,10225
+Northeast,Electronics,Q4,234,60026
+Northeast,Electronics,Q4,132,33166
+Northeast,Electronics,Q4,201,49546
+Northeast,Clothing,Q1,73,2890
+Northeast,Clothing,Q1,136,5599
+Northeast,Clothing,Q1,60,2519
+Northeast,Clothing,Q1,185,7043
+Northeast,Clothing,Q2,88,4592
+Northeast,Clothing,Q2,179,9378
+Northeast,Clothing,Q2,84,4031
+Northeast,Clothing,Q2,136,7345
+Northeast,Clothing,Q3,131,6865
+Northeast,Clothing,Q3,177,8450
+Northeast,Clothing,Q3,173,8101
+Northeast,Clothing,Q4,107,4699
+Northeast,Clothing,Q4,71,3088
+Northeast,Clothing,Q4,97,4169
+Northeast,Clothing,Q4,117,4732
+Northeast,Home Goods,Q1,124,8257
+Northeast,Home Goods,Q1,200,11796
+Northeast,Home Goods,Q1,138,8989
+Northeast,Home Goods,Q1,66,3899
+Northeast,Home Goods,Q2,157,11048
+Northeast,Home Goods,Q2,79,5387
+Northeast,Home Goods,Q2,235,17814
+Northeast,Home Goods,Q3,102,6115
+Northeast,Home Goods,Q3,149,9253
+Northeast,Home Goods,Q3,165,9101
+Northeast,Home Goods,Q3,84,4715
+Northeast,Home Goods,Q4,229,15450
+Northeast,Home Goods,Q4,229,15378
+Northeast,Home Goods,Q4,122,8989
+Northeast,Home Goods,Q4,98,6699
+Northeast,Sports,Q1,54,3656
+Northeast,Sports,Q1,78,5094
+Northeast,Sports,Q1,139,9033
+Northeast,Sports,Q2,202,20510
+Northeast,Sports,Q2,232,23308
+Northeast,Sports,Q2,262,27712
+Northeast,Sports,Q2,71,7305
+Northeast,Sports,Q3,257,26732
+Northeast,Sports,Q3,188,17632
+Northeast,Sports,Q3,221,20891
+Northeast,Sports,Q4,102,7021
+Northeast,Sports,Q4,83,5319
+Northeast,Sports,Q4,67,4542
+Northeast,Books,Q1,187,4519
+Northeast,Books,Q1,93,2164
+Northeast,Books,Q1,95,2270
+Northeast,Books,Q1,193,4891
+Northeast,Books,Q2,182,3990
+Northeast,Books,Q2,148,3728
+Northeast,Books,Q2,133,3027
+Northeast,Books,Q2,115,2896
+Northeast,Books,Q3,78,2022
+Northeast,Books,Q3,73,1965
+Northeast,Books,Q3,204,5317
+Northeast,Books,Q4,206,6070
+Northeast,Books,Q4,111,2938
+Northeast,Books,Q4,191,5643
+Southeast,Electronics,Q1,98,15981
+Southeast,Electronics,Q1,110,18052
+Southeast,Electronics,Q1,139,22860
+Southeast,Electronics,Q2,86,14040
+Southeast,Electronics,Q2,44,7831
+Southeast,Electronics,Q2,87,15485
+Southeast,Electronics,Q3,58,11102
+Southeast,Electronics,Q3,55,9747
+Southeast,Electronics,Q3,49,9600
+Southeast,Electronics,Q4,219,55235
+Southeast,Electronics,Q4,211,53006
+Southeast,Electronics,Q4,100,27266
+Southeast,Clothing,Q1,90,3811
+Southeast,Clothing,Q1,124,4773
+Southeast,Clothing,Q1,59,2450
+Southeast,Clothing,Q1,113,4521
+Southeast,Clothing,Q2,65,3457
+Southeast,Clothing,Q2,77,3705
+Southeast,Clothing,Q2,140,7593
+Southeast,Clothing,Q2,79,3924
+Southeast,Clothing,Q3,185,9082
+Southeast,Clothing,Q3,156,7331
+Southeast,Clothing,Q3,166,7888
+Southeast,Clothing,Q4,139,6235
+Southeast,Clothing,Q4,162,6480
+Southeast,Clothing,Q4,160,7208
+Southeast,Home Goods,Q1,94,5495
+Southeast,Home Goods,Q1,148,9112
+Southeast,Home Goods,Q1,129,8479
+Southeast,Home Goods,Q2,145,9542
+Southeast,Home Goods,Q2,147,10116
+Southeast,Home Goods,Q2,164,11323
+Southeast,Home Goods,Q3,72,4003
+Southeast,Home Goods,Q3,85,5345
+Southeast,Home Goods,Q3,160,9713
+Southeast,Home Goods,Q3,52,3163
+Southeast,Home Goods,Q4,58,4012
+Southeast,Home Goods,Q4,168,12235
+Southeast,Home Goods,Q4,174,11225
+Southeast,Sports,Q1,69,4111
+Southeast,Sports,Q1,48,3158
+Southeast,Sports,Q1,79,4978
+Southeast,Sports,Q2,222,22536
+Southeast,Sports,Q2,78,7699
+Southeast,Sports,Q2,223,22533
+Southeast,Sports,Q3,130,12385
+Southeast,Sports,Q3,146,13990
+Southeast,Sports,Q3,169,15902
+Southeast,Sports,Q3,141,14003
+Southeast,Sports,Q4,37,2352
+Southeast,Sports,Q4,139,9602
+Southeast,Sports,Q4,48,3090
+Southeast,Books,Q1,70,1778
+Southeast,Books,Q1,57,1436
+Southeast,Books,Q1,123,2821
+Southeast,Books,Q1,138,3453
+Southeast,Books,Q2,158,3457
+Southeast,Books,Q2,163,3747
+Southeast,Books,Q2,64,1627
+Southeast,Books,Q2,71,1623
+Southeast,Books,Q3,171,4039
+Southeast,Books,Q3,109,2771
+Southeast,Books,Q3,123,2929
+Southeast,Books,Q4,177,4859
+Southeast,Books,Q4,62,1594
+Southeast,Books,Q4,156,4516
+Southeast,Books,Q4,60,1519
+Midwest,Electronics,Q1,84,13169
+Midwest,Electronics,Q1,117,19553
+Midwest,Electronics,Q1,114,19080
+Midwest,Electronics,Q2,52,9776
+Midwest,Electronics,Q2,67,11844
+Midwest,Electronics,Q2,110,19560
+Midwest,Electronics,Q3,129,22473
+Midwest,Electronics,Q3,103,18668
+Midwest,Electronics,Q3,48,9460
+Midwest,Electronics,Q4,129,34866
+Midwest,Electronics,Q4,160,44008
+Midwest,Electronics,Q4,176,49845
+Midwest,Clothing,Q1,84,3600
+Midwest,Clothing,Q1,72,3094
+Midwest,Clothing,Q1,42,1614
+Midwest,Clothing,Q2,151,8192
+Midwest,Clothing,Q2,110,5480
+Midwest,Clothing,Q2,75,3808
+Midwest,Clothing,Q2,57,3119
+Midwest,Clothing,Q3,94,4889
+Midwest,Clothing,Q3,156,7536
+Midwest,Clothing,Q3,100,4731
+Midwest,Clothing,Q4,122,5072
+Midwest,Clothing,Q4,54,2481
+Midwest,Clothing,Q4,97,4048
+Midwest,Home Goods,Q1,151,9072
+Midwest,Home Goods,Q1,46,2666
+Midwest,Home Goods,Q1,93,5447
+Midwest,Home Goods,Q1,94,5376
+Midwest,Home Goods,Q2,129,9561
+Midwest,Home Goods,Q2,121,8563
+Midwest,Home Goods,Q2,168,11273
+Midwest,Home Goods,Q2,184,12504
+Midwest,Home Goods,Q3,123,6622
+Midwest,Home Goods,Q3,143,8616
+Midwest,Home Goods,Q3,76,4349
+Midwest,Home Goods,Q4,119,8282
+Midwest,Home Goods,Q4,72,5087
+Midwest,Home Goods,Q4,112,7653
+Midwest,Sports,Q1,90,5670
+Midwest,Sports,Q1,85,5487
+Midwest,Sports,Q1,67,4233
+Midwest,Sports,Q1,99,6516
+Midwest,Sports,Q2,207,20041
+Midwest,Sports,Q2,201,21173
+Midwest,Sports,Q2,134,12943
+Midwest,Sports,Q3,210,21358
+Midwest,Sports,Q3,140,13922
+Midwest,Sports,Q3,173,17786
+Midwest,Sports,Q3,191,19018
+Midwest,Sports,Q4,48,2966
+Midwest,Sports,Q4,91,5445
+Midwest,Sports,Q4,74,4867
+Midwest,Books,Q1,80,1793
+Midwest,Books,Q1,49,1116
+Midwest,Books,Q1,138,3336
+Midwest,Books,Q2,134,3139
+Midwest,Books,Q2,159,3592
+Midwest,Books,Q2,119,2824
+Midwest,Books,Q3,73,1871
+Midwest,Books,Q3,43,1143
+Midwest,Books,Q3,65,1697
+Midwest,Books,Q4,88,2538
+Midwest,Books,Q4,170,4648
+Midwest,Books,Q4,179,4725
+West,Electronics,Q1,162,25276
+West,Electronics,Q1,164,27912
+West,Electronics,Q1,188,31637
+West,Electronics,Q2,185,32087
+West,Electronics,Q2,196,34100
+West,Electronics,Q2,93,16958
+West,Electronics,Q2,176,30641
+West,Electronics,Q3,131,25300
+West,Electronics,Q3,199,36774
+West,Electronics,Q3,121,21607
+West,Electronics,Q4,190,47893
+West,Electronics,Q4,209,53432
+West,Electronics,Q4,291,71465
+West,Clothing,Q1,112,4451
+West,Clothing,Q1,92,3849
+West,Clothing,Q1,68,2716
+West,Clothing,Q2,248,12764
+West,Clothing,Q2,85,4192
+West,Clothing,Q2,207,10523
+West,Clothing,Q2,263,14582
+West,Clothing,Q3,249,12090
+West,Clothing,Q3,64,3392
+West,Clothing,Q3,159,8190
+West,Clothing,Q4,204,9066
+West,Clothing,Q4,206,9229
+West,Clothing,Q4,115,4907
+West,Clothing,Q4,130,5500
+West,Home Goods,Q1,162,9741
+West,Home Goods,Q1,167,10682
+West,Home Goods,Q1,184,12125
+West,Home Goods,Q2,189,13712
+West,Home Goods,Q2,70,4672
+West,Home Goods,Q2,201,13534
+West,Home Goods,Q3,99,5375
+West,Home Goods,Q3,152,8646
+West,Home Goods,Q3,171,9726
+West,Home Goods,Q3,152,8577
+West,Home Goods,Q4,137,9851
+West,Home Goods,Q4,205,12915
+West,Home Goods,Q4,227,14382
+West,Home Goods,Q4,167,10895
+West,Sports,Q1,55,3663
+West,Sports,Q1,103,6275
+West,Sports,Q1,50,3262
+West,Sports,Q2,117,11651
+West,Sports,Q2,113,11416
+West,Sports,Q2,150,14916
+West,Sports,Q3,207,19600
+West,Sports,Q3,113,11802
+West,Sports,Q3,130,13967
+West,Sports,Q3,110,11138
+West,Sports,Q4,181,11913
+West,Sports,Q4,134,8434
+West,Sports,Q4,92,5489
+West,Sports,Q4,103,6172
+West,Books,Q1,87,2164
+West,Books,Q1,211,5238
+West,Books,Q1,150,3581
+West,Books,Q1,157,3472
+West,Books,Q2,57,1429
+West,Books,Q2,191,4250
+West,Books,Q2,155,3761
+West,Books,Q2,182,4466
+West,Books,Q3,109,2827
+West,Books,Q3,136,3463
+West,Books,Q3,215,5611
+West,Books,Q3,194,4800
+West,Books,Q4,166,4822
+West,Books,Q4,91,2414
+West,Books,Q4,208,5486
+West,Books,Q4,212,5895
