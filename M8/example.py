@@ -18,7 +18,7 @@ print("=" * 60)
 print("REPRESENT: Load raw survey data")
 print("=" * 60)
 
-df = pd.read_csv("../Datasets/data.csv")
+df = pd.read_csv("data.csv")
 print(f"Shape (rows, columns): {df.shape}")
 print(df.head(6))
 print()
